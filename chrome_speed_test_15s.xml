@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<VAST version="2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd">
+  <Ad id="265798688">
+  <InLine>
+        <AdSystem version="2.0">DART_DFA</AdSystem>
+    <AdTitle>In-Stream Video</AdTitle>
+    <Description></Description>
+    <Survey></Survey>
+    <Impression id="DART"><![CDATA[http://ad.doubleclick.net/imp;v7;x;265798688;0-0;0;91560472;0/0;51787344/51751952/1;;~cs=h%3fhttp://s0.2mdn.net/dot.gif]]></Impression>
+
+    <Creatives>
+    <Creative sequence="1" AdID="">
+      <Linear>
+      <Duration>00:00:15</Duration>
+      <TrackingEvents>
+        <Tracking event="start"><![CDATA[http://ad.doubleclick.net/activity;src=3924134;met=1;v=1;pid=91560472;aid=265798688;ko=0;cid=51787344;rid=51751952;rv=1;timestamp=232126;eid1=11;ecn1=1;etm1=0;]]></Tracking>
+        <Tracking event="midpoint"><![CDATA[http://ad.doubleclick.net/activity;src=3924134;met=1;v=1;pid=91560472;aid=265798688;ko=0;cid=51787344;rid=51751952;rv=1;timestamp=232126;eid1=18;ecn1=1;etm1=0;]]></Tracking>
+        <Tracking event="firstQuartile"><![CDATA[http://ad.doubleclick.net/activity;src=3924134;met=1;v=1;pid=91560472;aid=265798688;ko=0;cid=51787344;rid=51751952;rv=1;timestamp=232126;eid1=26;ecn1=1;etm1=0;]]></Tracking>
+              <Tracking event="thirdQuartile"><![CDATA[http://ad.doubleclick.net/activity;src=3924134;met=1;v=1;pid=91560472;aid=265798688;ko=0;cid=51787344;rid=51751952;rv=1;timestamp=232126;eid1=27;ecn1=1;etm1=0;]]></Tracking>
+              <Tracking event="complete"><![CDATA[http://ad.doubleclick.net/activity;src=3924134;met=1;v=1;pid=91560472;aid=265798688;ko=0;cid=51787344;rid=51751952;rv=1;timestamp=232126;eid1=13;ecn1=1;etm1=0;]]></Tracking>
+              <Tracking event="mute"><![CDATA[http://ad.doubleclick.net/activity;src=3924134;met=1;v=1;pid=91560472;aid=265798688;ko=0;cid=51787344;rid=51751952;rv=1;timestamp=232126;eid1=16;ecn1=1;etm1=0;]]></Tracking>
+              <Tracking event="pause"><![CDATA[http://ad.doubleclick.net/activity;src=3924134;met=1;v=1;pid=91560472;aid=265798688;ko=0;cid=51787344;rid=51751952;rv=1;timestamp=232126;eid1=15;ecn1=1;etm1=0;]]></Tracking>
+              <Tracking event="fullscreen"><![CDATA[http://ad.doubleclick.net/activity;src=3924134;met=1;v=1;pid=91560472;aid=265798688;ko=0;cid=51787344;rid=51751952;rv=1;timestamp=232126;eid1=19;ecn1=1;etm1=0;]]></Tracking>
+            </TrackingEvents>
+            <AdParameters></AdParameters>
+            <VideoClicks>
+              <ClickThrough><![CDATA[http://www.google.com/chrome]]></ClickThrough>
+              <ClickTracking id="DART"><![CDATA[http://ad.doubleclick.net/click%3Bh%3Dv8/3d44/3/0/%2a/f%3B265798688%3B0-0%3B0%3B91560472%3B255-0/0%3B51787344/51751952/1%3B%3B%7Esscs%3D%3fhttp://s0.2mdn.net/dot.gif]]></ClickTracking>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile id="1" delivery="progressive" type="video/x-flv" bitrate="348" width="426" height="240"><![CDATA[http://gcdn.2mdn.net/MotifFiles/html/3924134/chrome_15second_add_13546498381333_H263_medium.flv]]></MediaFile>
+              <MediaFile id="2" delivery="progressive" type="video/x-flv" bitrate="841" width="640" height="360"><![CDATA[http://gcdn.2mdn.net/MotifFiles/html/3924134/chrome_15second_add_13546498381333_H263_high.flv]]></MediaFile>
+              <MediaFile id="3" delivery="progressive" type="video/x-flv" bitrate="426" width="640" height="360"><![CDATA[http://gcdn.2mdn.net/MotifFiles/html/3924134/chrome_15second_add_13546498381333_H264_medium.flv]]></MediaFile>
+              <MediaFile id="4" delivery="progressive" type="video/x-flv" bitrate="643" width="854" height="480"><![CDATA[http://gcdn.2mdn.net/MotifFiles/html/3924134/chrome_15second_add_13546498381333_H264_high.flv]]></MediaFile>
+              <MediaFile id="5" delivery="progressive" type="video/mp4" bitrate="2220" width="1280" height="720"><![CDATA[http://rmcdn.2mdn.net/MotifFiles/html/3924134/chrome_15second_add_13546498381333.mp4]]></MediaFile>
+              <MediaFile id="6" delivery="streaming" type="video/x-flv" bitrate="348" width="426" height="240"><![CDATA[rtmp://rmcdn.f.2mdn.net/ondemand/MotifFiles/html/3924134/chrome_15second_add_13546498381333_H263_medium.flv]]></MediaFile>
+              <MediaFile id="7" delivery="streaming" type="video/x-flv" bitrate="841" width="640" height="360"><![CDATA[rtmp://rmcdn.f.2mdn.net/ondemand/MotifFiles/html/3924134/chrome_15second_add_13546498381333_H263_high.flv]]></MediaFile>
+              <MediaFile id="8" delivery="streaming" type="video/x-flv" bitrate="426" width="640" height="360"><![CDATA[rtmp://rmcdn.f.2mdn.net/ondemand/MotifFiles/html/3924134/chrome_15second_add_13546498381333_H264_medium.flv]]></MediaFile>
+              <MediaFile id="9" delivery="streaming" type="video/x-flv" bitrate="643" width="854" height="480"><![CDATA[rtmp://rmcdn.f.2mdn.net/ondemand/MotifFiles/html/3924134/chrome_15second_add_13546498381333_H264_high.flv]]></MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+
+        <Creative sequence="1" AdID="">
+          <CompanionAds>
+          </CompanionAds>
+        </Creative>
+
+      </Creatives>
+
+      <Extensions>
+        <Extension type="DART">
+          <AdServingData>
+            <DeliveryData>
+              <GeoData><![CDATA[ct=US&st=AL&ac=205&zp=35215&bw=2&dma=108&city=13430]]></GeoData>
+            </DeliveryData>
+          </AdServingData>
+          <CustomTracking>
+            <Tracking event="skip"><![CDATA[http://ad.doubleclick.net/activity;src=3924134;met=1;v=1;pid=91560472;aid=265798688;ko=0;cid=51787344;rid=51751952;rv=1;timestamp=232126;eid1=29;ecn1=1;etm1=0;]]></Tracking>
+            <Tracking event="engagedView"><![CDATA[http://ad.doubleclick.net/activity;src=3924134;met=1;v=1;pid=91560472;aid=265798688;ko=0;cid=51787344;rid=51751952;rv=1;timestamp=232126;eid1=30;ecn1=1;etm1=0;]]></Tracking>
+          </CustomTracking>
+        </Extension>
+      </Extensions>
+    </InLine>
+  </Ad>
+</VAST>
